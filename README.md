@@ -1,6 +1,6 @@
 # 20 Projetos Full Stack
 
-Bem-vindo à pasta "20 Projetos Full Stack", que abriga uma coleção de mini projetos abrangendo diversas tecnologias full stack. Cada projeto nesta pasta é independente e oferece uma oportunidade única de aprendizado e prática. Abaixo estão os detalhes sobre os projetos disponíveis:
+Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção de mini projetos abrangendo diversas tecnologias full stack. Cada projeto nesta pasta é independente e oferece uma oportunidade única de aprendizado e prática. Abaixo estão os detalhes sobre os projetos disponíveis:
 
 ## Lista de Projetos
 
@@ -9,23 +9,23 @@ Bem-vindo à pasta "20 Projetos Full Stack", que abriga uma coleção de mini pr
 - **Descrição:** Um simples aplicativo de bate-papo em tempo real usando Socket.IO, Express e HTML/CSS/JS.
 - **Instruções de Uso:** Consulte o README.md no diretório do projeto.
 
-### 2. Próximo Projeto (Em desenvolvimento, aguarde!)
+### 2. Próximo Projeto (Em andamento, aguarde!)
 
-- **Descrição:** [Breve descrição do próximo projeto.]
-- **Instruções de Uso:** [Instruções sobre como usar o próximo projeto.]
+- **Descrição:** [...]
+- **Instruções de Uso:** [...]
 
 ## Como Usar os Projetos
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/20-projetos-full-stack.git
+git clone https://github.com/CarlosEduts/FullStack-20-Projects-Playground.git
 ```
 
-2. Navegue até o diretório da pasta "20 Projetos Full Stack":
+2. Navegue até o diretório da pasta "FullStack-20-Projects-Playground":
 
 ```bash
-cd 20-projetos-full-stack
+cd FullStack-20-Projects-Playground
 ```
 
 3. Explore os diretórios individuais de cada projeto para obter informações específicas sobre eles.
