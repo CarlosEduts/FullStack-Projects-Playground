@@ -5,16 +5,17 @@ Este é um aplicativo simples de bate-papo em tempo real usando Socket.IO, Expre
 ## Como Usar
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
+
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/CarlosEduts/FullStack-20-Projects-Playground.git
 ```
 
 3. Navegue até o diretório do projeto:
 
 ```bash
-cd nome-do-repositorio
+cd FullStack-20-Projects-Playground/Mensageiro
 ```
 
 4. Instale as dependências:
@@ -51,4 +52,4 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Este projeto é licenciado sob a [Licença MIT](../LICENSE).

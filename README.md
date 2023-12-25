@@ -4,7 +4,7 @@ Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção 
 
 ## Lista de Projetos
 
-### 1. Bate Papo em Tempo Real
+### 1. Bate Papo em Tempo Real (Mensageiro)
 
 - **Descrição:** Um simples aplicativo de bate-papo em tempo real usando Socket.IO, Express e HTML/CSS/JS.
 - **Instruções de Uso:** Consulte o README.md no diretório do projeto.
