@@ -1,0 +1,96 @@
+body {
+  background-color: #101013;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.nickName,
+.nickName > div,
+.gameContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nickName {
+  position: absolute;
+  width: 100%;
+  height: 100dvh;
+
+  backdrop-filter: blur(10px);
+}
+
+.nickName > div {
+  width: 330px;
+  height: 330px;
+  background-color: #000;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 7px;
+  flex-direction: column;
+}
+
+.nickName > div > input {
+  height: 30px;
+  width: 200px;
+  padding-left: 10px;
+  background-color: #000;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 20px 0px;
+}
+
+.nickName > div > button {
+  height: 30px;
+  width: 200px;
+  background-color: #0272bd;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 30px;
+}
+
+.container {
+  display: none;
+}
+
+.gameContainer {
+  width: 100%;
+  height: 100dvh;
+}
+
+@media (0px <= width <= 600px) {
+  .gameContainer {
+    flex-direction: column;
+  }
+}
+
+.score {
+  width: 250px;
+}
+.score > h2 {
+  margin-bottom: 10px;
+}
+.score > p {
+  line-height: 25px;
+}
+
+.game {
+  margin-left: 30px;
+  width: 330px;
+  height: 330px;
+  position: relative;
+  background-color: #000;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 7px;
+  margin: 20px;
+}
+.point {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 30px;
+  background-color: aquamarine;
+}

@@ -9,10 +9,10 @@ Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção 
 - **Descrição:** Um simples aplicativo de bate-papo em tempo real usando Socket.IO, Express e HTML/CSS/JS.
 - **Instruções de Uso:** Consulte o README.md no diretório do projeto.
 
-### 2. Próximo Projeto (Em andamento, aguarde!)
+### 2. Jogo Multiplayer de Captura de Pontos (Capture-Pontos-Multiplayer)
 
-- **Descrição:** [...]
-- **Instruções de Uso:** [...]
+- **Descrição:** um jogo simples de captura de pontos multiplayer usando tecnologias web.
+- **Instruções de Uso:** Consulte o README.md no diretório do projeto.
 
 ## Como Usar os Projetos
 
