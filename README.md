@@ -14,6 +14,11 @@ Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção 
 - **Descrição:** um jogo simples de captura de pontos multiplayer usando tecnologias web.
 - **Instruções de Uso:** Consulte o README.md no diretório do projeto.
 
+### 3. Projeto em andamento.
+
+- **Descrição:** [Aguande...]
+- **Instruções de Uso:** [Aguarde...]
+
 ## Como Usar os Projetos
 
 1. Clone este repositório:
