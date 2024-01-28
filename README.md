@@ -1,6 +1,6 @@
-# 20 Projetos Full Stack
+# Projetos Full Stack
 
-Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção de mini projetos abrangendo diversas tecnologias full stack. Cada projeto nesta pasta é independente e oferece uma oportunidade única de aprendizado e prática. Abaixo estão os detalhes sobre os projetos disponíveis:
+Bem-vindo à pasta "FullStack-Projects-Playground", que abriga uma coleção de mini projetos abrangendo diversas tecnologias full stack. Cada projeto nesta pasta é independente e oferece uma oportunidade única de aprendizado e prática. Abaixo estão os detalhes sobre os projetos disponíveis:
 
 ## Lista de Projetos
 
@@ -24,13 +24,13 @@ Bem-vindo à pasta "FullStack-20-Projects-Playground", que abriga uma coleção 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/CarlosEduts/FullStack-20-Projects-Playground.git
+git clone https://github.com/CarlosEduts/FullStack-Projects-Playground.git
 ```
 
-2. Navegue até o diretório da pasta "FullStack-20-Projects-Playground":
+2. Navegue até o diretório da pasta "FullStack-Projects-Playground":
 
 ```bash
-cd FullStack-20-Projects-Playground
+cd FullStack-Projects-Playground
 ```
 
 3. Explore os diretórios individuais de cada projeto para obter informações específicas sobre eles.
