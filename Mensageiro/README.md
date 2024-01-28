@@ -9,13 +9,13 @@ Este é um aplicativo simples de bate-papo em tempo real usando Socket.IO, Expre
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/CarlosEduts/FullStack-20-Projects-Playground.git
+git clone https://github.com/CarlosEduts/FullStack-Projects-Playground.git
 ```
 
 3. Navegue até o diretório do projeto:
 
 ```bash
-cd FullStack-20-Projects-Playground/Mensageiro
+cd FullStack-Projects-Playground/Mensageiro
 ```
 
 4. Instale as dependências:

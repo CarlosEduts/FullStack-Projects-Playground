@@ -11,13 +11,13 @@ Este projeto implementa um jogo simples de captura de pontos multiplayer usando 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/CarlosEduts/FullStack-20-Projects-Playground.git
+git clone https://github.com/CarlosEduts/FullStack-Projects-Playground.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd FullStack-20-Projects-Playground/Capture-Pontos-Multiplayer
+cd FullStack-Projects-Playground/Capture-Pontos-Multiplayer
 ```
 
 3. Instale as dependências:
